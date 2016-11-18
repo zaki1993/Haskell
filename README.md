@@ -1,4 +1,4 @@
-# Haskell functions reference
+# Haskell functions references
 
 ### head 
 ```Haskell
