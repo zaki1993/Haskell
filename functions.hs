@@ -2,7 +2,7 @@ add a b = a + b -- define add func
 minus a b = a - b -- define minus func
 mult a b = a * b -- define mult func
 dev a b = a `div` b -- define div func
-shift k xs = drop k xs ++ take k xs-- shifts from right and list with k symbols
+shift k xs = drop k xs ++ take k xs -- shifts from right and list with k symbols
 
 sumFirstN n = sum[1..n] -- sum the first N numbers
 
